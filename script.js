@@ -68,10 +68,5 @@ capybara.tackle(dog)
 otter.tackle(capybara)
 dog.heal(capybara)
 
-/*
-function Trainer(name, age, pokemon, friends){
-	this.name = name;
-	this.age = age;
-	this.pokemon = pokemon
-}
-*/
+//ROMERO
+//AN22//202110191
